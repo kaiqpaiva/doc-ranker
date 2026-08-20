@@ -5,4 +5,3 @@ faiss-cpu
 pyyaml
 pandas
 scikit-learn
-datasets

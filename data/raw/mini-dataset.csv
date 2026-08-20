@@ -1,0 +1,10 @@
+query_id,query_text,doc_id,document_text,relevance
+1,how much protein should a female eat,101,As a general guideline the CDC average requirement of protein for women ages 19 to 70 is 46 grams per day,1
+1,how much protein should a female eat,102,The best way to cook pasta is to boil water and add salt,0
+1,how much protein should a female eat,103,Protein requirements vary based on activity level and age for women,1
+2,pumpkin recipe chinese,201,To make stir fried pumpkin shreds you need pumpkin and oil,1
+2,pumpkin recipe chinese,202,The history of Chinese cuisine dates back thousands of years,0
+2,pumpkin recipe chinese,203,Pumpkin is an orange vegetable used in many Asian dishes,1
+3,how to remove coffee stain,301,Apply cold water immediately to coffee stains on white fabric then use vinegar,1
+3,how to remove coffee stain,302,The best coffee brands in Brazil are Nespresso and Três Corações,0
+3,how to remove coffee stain,303,White wine can help remove some types of fabric stains,1

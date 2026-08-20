@@ -1,7 +1,7 @@
-transformers
-torch
-numpy
-faiss-cpu
-pyyaml
-pandas
-scikit-learn
+torch>=2.9.0
+transformers>=4.40.0
+numpy>=1.24.0
+faiss-cpu>=1.7.4
+pyyaml>=6.0
+pandas>=2.0.0
+scikit-learn>=1.3.0

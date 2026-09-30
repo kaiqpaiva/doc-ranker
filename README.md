@@ -68,6 +68,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Testado com Python 3.14, torch 2.14, transformers 5.18 e datasets 3.6.
+
 O `datasets` fica travado abaixo da versão 4.0 porque o mMARCO é carregado por um script próprio, e esse tipo de script deixou de ser suportado nas versões novas.
 
 Para a demo rápida:
@@ -109,11 +111,6 @@ for score, idx in zip(valores[0], indices[0]):
 - Aumentar o pool de distratoras para deixar a avaliação mais próxima do cenário real
 - Indexar os vetores com FAISS para buscar em coleções maiores
 - Comparar outros modelos de embedding com o mesmo protocolo de avaliação
-
-## Referências
-
-- Wang et al. *Text Embeddings by Weakly-Supervised Contrastive Pre-training*, 2022. (modelo E5)
-- Bonifacio et al. *mMARCO: A Multilingual Version of the MS MARCO Passage Ranking Dataset*, 2021.
 
 ## Autores
 
